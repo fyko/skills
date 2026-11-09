@@ -1,0 +1,5 @@
+interface:
+  display_name: "Cut Corners"
+  short_description: "Cut corners to do something quickly."
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,5 @@
+interface:
+  display_name: "Do"
+  short_description: "Gather context for a Linear ticket before work starts."
+policy:
+  allow_implicit_invocation: false

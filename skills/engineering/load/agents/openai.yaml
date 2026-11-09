@@ -1,0 +1,3 @@
+interface:
+  display_name: "Load"
+  short_description: "Load PR context for the current branch into a fresh session."
